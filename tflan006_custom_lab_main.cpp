@@ -1,6 +1,4 @@
 /* 
-Timothy Flannery    tflan006@ucr.edu
-
 Using class provided timerISR.h and serialATmega.h
 
 Demo Video: https://youtu.be/S0i3sh4wQ30?si=iQnBkm5RCvg-PdxV
@@ -892,5 +890,6 @@ int TickFct_Win(int state)
   }
   return state;
 }
+
 
 
